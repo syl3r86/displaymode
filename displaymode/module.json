@@ -4,12 +4,10 @@
 	"description": "Hide all those pesky display elements you don't need for table gaming. Toggle visibility by clicking the Anvil in the topright corner",
 	"version": "0.1",
 	"author": "Felix",
-	"systems": ["dnd5e"],
 	"scripts": ["./displaymode.js"],
 	"styles": [],
 	"packs": [],
     "url": "https://github.com/syl3r86/displaymode",
     "manifest": "https://raw.githubusercontent.com/syl3r86/displaymode/master/displaymode/module.json",
-    "download": "https://github.com/syl3r86/displaymode/raw/master/displaymode.zip",
-	"socket": true
+    "download": "https://github.com/syl3r86/displaymode/raw/master/displaymode.zip"
 }
