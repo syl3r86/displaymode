@@ -2,10 +2,11 @@
 A module for Foundry VTT to hide all those pesky display elements you don't need for table gaming.
 
 ## Installation
-1. Download the [displaymode.zip](https://github.com/syl3r86/displaymode/raw/master/displaymode.zip)
-2. Unzip it into FoundryVTT/resources/app/public/modules
-3. Restart Foundry if it was running.
-4. Enable the Module in the Module Manager within the world.
+1. Copy this link and use it in Foundrys Module Manager to install the Module
+
+    > https://raw.githubusercontent.com/syl3r86/displaymode/master/module.json
+    
+2. Enable the Module in your Worlds Module Settings
 
 ## Usage
 Just click the Anvil Icon in the topright corner of the Application
