@@ -2,7 +2,7 @@
 	"name": "displaymode",
 	"title": "Display Mode",
 	"description": "Hide all those pesky display elements you don't need for table gaming. Toggle visibility by clicking the Anvil in the topright corner",
-	"version": "0.2",
+	"version": "0.3",
 	"author": "Felix",
 	"scripts": ["./displaymode.js"],
 	"styles": [],
