@@ -1,5 +1,5 @@
 # Display Mode
-A module for Foundry VTT to hide all those pesky display elements you don't need for table gaming.
+A module for Foundry VTT to hide all those pesky display elements you don't need for table gaming. Just click the Foundry Icon (top left) to hide the sidebar, navigation, scene controlls, player display and macro hotbar.
 
 ## Installation
 1. Copy this link and use it in Foundrys Module Manager to install the Module
