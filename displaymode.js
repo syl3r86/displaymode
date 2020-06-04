@@ -16,3 +16,27 @@ Hooks.on('ready', () => {
         }
     });
 });
+
+Hooks.on('renderSceneNavigation', (app,html) => {
+    if (window.hideUI) {
+        html.hide();
+    }
+});
+
+Hooks.on('renderSceneControls', (app, html) => {
+    if (window.hideUI) {
+        html.hide();
+    }
+});
+
+Hooks.on('renderSidebarTab', (app, html) => {
+    if (window.hideUI) {
+        html.hide();
+    }
+});
+
+Hooks.on('renderCombatTracker', (app, html) => {
+    if (window.hideUI) {
+        html.hide();
+    }
+});
