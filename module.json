@@ -9,7 +9,7 @@
     "packs": [],
     "url": "https://github.com/syl3r86/displaymode",
     "manifest": "https://raw.githubusercontent.com/syl3r86/displaymode/master/module.json",
-    "download": "https://github.com/syl3r86/displaymode/archive/master.zip",
+    "download": "https://github.com/syl3r86/displaymode/archive/v0.5.zip",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "0.6.1"
 }
