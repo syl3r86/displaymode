@@ -1,3 +1,4 @@
 .github export-ignore
 FUNDING.yml export-ignore
-README.md
+README.md export-ignore
+patchnotes.md export-ignore
